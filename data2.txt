@@ -1,0 +1,20 @@
+localStorage.setItem("data2", JSON.stringify([
+  {
+    "id": "1",
+    "image1": "https://picsum.photos/200?random=1",
+    "image2": "https://picsum.photos/200?random=2",
+    "clientName": "Acme Corp",
+    "projectName": "Redesign Website",
+    "postDate": "2024-04-30",
+    "projectOverview": "This project involves a complete overhaul of the existing website to enhance user experience and increase traffic. Focus areas include mobile responsiveness and modern aesthetics."
+  },
+  {
+    "id": "6",
+    "image1": "https://picsum.photos/200?random=11",
+    "image2": "https://picsum.photos/200?random=12",
+    "clientName": "Zeta Corp",
+    "projectName": "Develop E-commerce Platform",
+    "postDate": "2024-08-10",
+    "projectOverview": "This project involves developing a new e-commerce platform for the company to sell products online, focusing on user experience and secure payment processing."
+  }
+]));

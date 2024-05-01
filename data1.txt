@@ -1,0 +1,56 @@
+localStorage.setItem("projects", JSON.stringify([
+  {
+    "id": "1",
+    "image1": "https://picsum.photos/200?random=1",
+    "image2": "https://picsum.photos/200?random=2",
+    "clientName": "Acme Corp",
+    "projectName": "Redesign Website",
+    "postDate": "2024-04-30",
+    "projectOverview": "This project involves a complete overhaul of the existing website to enhance user experience and increase traffic. Focus areas include mobile responsiveness and modern aesthetics."
+  },
+  {
+    "id": "2",
+    "image1": "https://picsum.photos/200?random=3",
+    "image2": "https://picsum.photos/200?random=4",
+    "clientName": "Beta LLC",
+    "projectName": "Develop New App",
+    "postDate": "2024-05-20",
+    "projectOverview": "This project is aimed at developing a new mobile app for online shopping with unique features that distinguish it from existing market solutions, focusing on speed and security."
+  },
+  {
+    "id": "3",
+    "image1": "https://picsum.photos/200?random=5",
+    "image2": "https://picsum.photos/200?random=6",
+    "clientName": "Gamma Inc",
+    "projectName": "Create New Logo",
+    "postDate": "2024-06-10",
+    "projectOverview": "This project involves creating a new logo for the company that reflects its core values and mission, with a focus on simplicity and memorability."
+  },
+  {
+    "id": "4",
+    "image1": "https://picsum.photos/200?random=7",
+    "image2": "https://picsum.photos/200?random=8",
+    "clientName": "Delta Co",
+    "projectName": "Design Marketing Campaign",
+    "postDate": "2024-07-01",
+    "projectOverview": "This project involves designing a marketing campaign to promote a new product launch, focusing on social media and email marketing to reach target audiences."
+  },
+  {
+    "id": "5",
+    "image1": "https://picsum.photos/200?random=9",
+    "image2": "https://picsum.photos/200?random=10",
+    "clientName": "Epsilon Ltd",
+    "projectName": "Optimize SEO Strategy",
+    "postDate": "2024-07-20",
+    "projectOverview": "This project involves optimizing the company's SEO strategy to improve search engine rankings and increase organic traffic, focusing on keyword research and content optimization."
+  },
+  {
+    "id": "6",
+    "image1": "https://picsum.photos/200?random=11",
+    "image2": "https://picsum.photos/200?random=12",
+    "clientName": "Zeta Corp",
+    "projectName": "Develop E-commerce Platform",
+    "postDate": "2024-08-10",
+    "projectOverview": "This project involves developing a new e-commerce platform for the company to sell products online, focusing on user experience and secure payment processing."
+  }
+]));
