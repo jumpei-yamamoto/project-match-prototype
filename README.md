@@ -1,0 +1,1 @@
+data1.txtとdata2.txtのデータをあらかじめdevelopertoolのコンソールで実行し、localstrageにデータを保存しておく。
