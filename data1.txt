@@ -3,54 +3,54 @@ localStorage.setItem("projects", JSON.stringify([
     "id": "1",
     "image1": "https://picsum.photos/200?random=1",
     "image2": "https://picsum.photos/200?random=2",
-    "clientName": "Acme Corp",
-    "projectName": "Redesign Website",
+    "clientName": "A株式会社",
+    "projectName": "ウェブサイトのリデザイン",
     "postDate": "2024-04-30",
-    "projectOverview": "This project involves a complete overhaul of the existing website to enhance user experience and increase traffic. Focus areas include mobile responsiveness and modern aesthetics."
+    "projectOverview": "このプロジェクトでは、既存のウェブサイトを全面的に見直し、ユーザーエクスペリエンスの向上とトラフィックの増加を図ります。モバイル対応と現代的なデザインに焦点を当てます。"
   },
   {
     "id": "2",
     "image1": "https://picsum.photos/200?random=3",
     "image2": "https://picsum.photos/200?random=4",
-    "clientName": "Beta LLC",
-    "projectName": "Develop New App",
+    "clientName": "B合同会社",
+    "projectName": "新しいアプリの開発",
     "postDate": "2024-05-20",
-    "projectOverview": "This project is aimed at developing a new mobile app for online shopping with unique features that distinguish it from existing market solutions, focusing on speed and security."
+    "projectOverview": "このプロジェクトは、オンラインショッピング用の新しいモバイルアプリを開発することを目指しています。速度とセキュリティに焦点を当て、市場の既存のソリューションとは一線を画す独自の機能を備えます。"
   },
   {
     "id": "3",
     "image1": "https://picsum.photos/200?random=5",
     "image2": "https://picsum.photos/200?random=6",
-    "clientName": "Gamma Inc",
-    "projectName": "Create New Logo",
+    "clientName": "C株式会社",
+    "projectName": "新しいロゴの作成",
     "postDate": "2024-06-10",
-    "projectOverview": "This project involves creating a new logo for the company that reflects its core values and mission, with a focus on simplicity and memorability."
+    "projectOverview": "このプロジェクトでは、会社の核心的な価値と使命を反映した新しいロゴを作成します。シンプルさと記憶に残るデザインに焦点を当てます。"
   },
   {
     "id": "4",
     "image1": "https://picsum.photos/200?random=7",
     "image2": "https://picsum.photos/200?random=8",
-    "clientName": "Delta Co",
-    "projectName": "Design Marketing Campaign",
+    "clientName": "D社",
+    "projectName": "マーケティングキャンペーンのデザイン",
     "postDate": "2024-07-01",
-    "projectOverview": "This project involves designing a marketing campaign to promote a new product launch, focusing on social media and email marketing to reach target audiences."
+    "projectOverview": "このプロジェクトでは、新製品のローンチを促進するマーケティングキャンペーンをデザインします。ターゲットオーディエンスに到達するためにソーシャルメディアとメールマーケティングに焦点を当てます。"
   },
   {
     "id": "5",
     "image1": "https://picsum.photos/200?random=9",
     "image2": "https://picsum.photos/200?random=10",
-    "clientName": "Epsilon Ltd",
-    "projectName": "Optimize SEO Strategy",
+    "clientName": "E有限会社",
+    "projectName": "SEO戦略の最適化",
     "postDate": "2024-07-20",
-    "projectOverview": "This project involves optimizing the company's SEO strategy to improve search engine rankings and increase organic traffic, focusing on keyword research and content optimization."
+    "projectOverview": "このプロジェクトでは、会社のSEO戦略を最適化し、検索エンジンのランキングを向上させ、オーガニックトラフィックを増加させます。キーワードリサーチとコンテンツ最適化に焦点を当てます。"
   },
   {
     "id": "6",
     "image1": "https://picsum.photos/200?random=11",
     "image2": "https://picsum.photos/200?random=12",
-    "clientName": "Zeta Corp",
-    "projectName": "Develop E-commerce Platform",
+    "clientName": "F株式会社",
+    "projectName": "Eコマースプラットフォームの開発",
     "postDate": "2024-08-10",
-    "projectOverview": "This project involves developing a new e-commerce platform for the company to sell products online, focusing on user experience and secure payment processing."
+    "projectOverview": "このプロジェクトでは、会社の製品をオンラインで販売するための新しいEコマースプラットフォームを開発します。ユーザーエクスペリエンスと安全な支払い処理に焦点を当てます。"
   }
 ]));
